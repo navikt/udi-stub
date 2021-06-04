@@ -24,7 +24,7 @@
 	<properties>
 		<maven.compiler-plugin.version>3.8.1</maven.compiler-plugin.version>
 
-		<apache.version>4.5.9</apache.version>
+		<apache.version>4.5.13</apache.version>
 		<application.version>${project.version}</application.version>
 		<hikari.version>3.3.1</hikari.version>
 		<logstash.logback.encoder.version>5.2</logstash.logback.encoder.version>
