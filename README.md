@@ -1,4 +1,7 @@
 Master: [![CircleCI](https://circleci.com/gh/navikt/udi-stub/tree/master.svg?style=svg)](https://circleci.com/gh/navikt/udi-stub/tree/master)
+
+NB: Dette repo-et er arkivert. Du finner oppdatert versjon i navikt/testnorge/apps/udi-stub
+
 # UDI-stub
 
 UDI-stub stubs the services NAV uses which are exposed by UDI. The application also provides REST endpoints to store new people in the database.
